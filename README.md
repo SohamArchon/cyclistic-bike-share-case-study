@@ -21,10 +21,27 @@ I cleaned and transformed the dataset using SQL, then built a full interactive d
 
 ---
 
-## 📂 SQL Files Included
-- `01_create_tables.sql` – Table creation & data import  
-- `02_cleaning.sql` – Cleaning, fixing station names, membership tags, ride length  
-- `03_analysis_queries.sql` – Aggregations for monthly, hourly, and member/casual insights  
+## 📁 SQL Files Included
+- `cyclistic.sql` – Table creation  
+- `import.sql` – Data import  
+- Cleaning scripts:  
+  - `remove_invalid.sql` – Removes rows with missing or incorrect values  
+  - `remove_garbage.sql` – Removes duplicate and unusable records  
+  - `sanity_check.sql` – Validates data quality  
+  - `update_column.sql` – Updates ride_length (HH:MM:SS) and day_of_week (1–7)  
+- Analysis scripts:  
+  - `analyze_1.sql`  
+  - `analyze_2.sql`  
+  - `analyze_3.sql`  
+  - `analyze_4.sql`  
+  - `analyze_5.sql`  
+    *(Monthly, hourly, and member/casual insights)*
+
+---
+
+## 📁 Power BI Dashboard
+PBIX file (Google Drive link):  
+https://drive.google.com/your_link_here
 
 ---
 
