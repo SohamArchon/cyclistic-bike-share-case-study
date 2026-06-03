@@ -17,7 +17,7 @@ I cleaned and transformed the dataset using SQL, then built a full interactive d
 ## 🛠 Tools Used
 - **MySQL** → Importing, cleaning, transforming data  
 - **Power BI** → Dashboard + KPIs  
-- **DAX** → Measures and calculations  
+- **Excel** → Analyzing the pattern and understanding dataset 
 
 ---
 
