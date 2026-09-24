@@ -52,18 +52,22 @@ Interactive Power BI dashboard analyzing 2.9M+ Cyclistic bike-share trips to und
 
 ### **Member vs Casual**
 <img width="591" height="271" alt="image" src="https://github.com/user-attachments/assets/4e3e2d89-06aa-4924-aaac-ccc9ec4805b2" />
+
 Shows the distribution of rides between annual members and casual riders.
 
 ### **Monthly Trips**
 <img width="744" height="234" alt="image" src="https://github.com/user-attachments/assets/11d60abf-5e98-4d6b-89ad-0626bfd8bdf4" />
+
 Highlights monthly ride volume and seasonal usage patterns.
 
 ### **Hourly Usage**
 <img width="563" height="397" alt="image" src="https://github.com/user-attachments/assets/6f51db9f-6ccb-4859-975a-dc843010a735" />
+
 Shows how ride demand changes throughout the day.
 
 ### **Day of Week**
 <img width="753" height="421" alt="image" src="https://github.com/user-attachments/assets/c39a5452-970b-4c76-b9ae-c9aa1927b03d" />
+
 Compares ride activity across different days of the week.
 
 
